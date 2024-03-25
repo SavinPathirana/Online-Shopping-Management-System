@@ -1,0 +1,49 @@
+--------------Products-------------- 
+Type:Clothing
+ID:hat01
+Name:hat
+No of Products:6
+Price:45.0
+Size:xs
+Colour:brown
+
+Type:Electronics
+ID:key01
+Name:keyboard
+No of Products:12
+Price:90.0
+Brand:Samsung
+Warranty:6m
+
+Type:Electronics
+ID:lap01
+Name:laptop
+No of Products:5
+Price:800.0
+Brand:Asus
+Warranty:3y
+
+Type:Electronics
+ID:mouse01
+Name:mouse
+No of Products:70
+Price:50.0
+Brand:Asus
+Warranty:3m
+
+Type:Clothing
+ID:shirt01
+Name:shirt
+No of Products:6
+Price:30.0
+Size:m
+Colour:blue
+
+Type:Clothing
+ID:skirt01
+Name:skirt
+No of Products:14
+Price:50.0
+Size:l
+Colour:black
+
